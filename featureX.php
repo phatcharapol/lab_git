@@ -7,4 +7,6 @@
 
 	echo "add FeatureY" ;
 
+	echo "edit featurey";
+
 ?>
